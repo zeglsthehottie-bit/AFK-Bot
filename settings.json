@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zeglss.aternos.me:34756",
+    "ip": "Zeglss.aternos.me",
     "port": 34756,
     "version": "",
     "try-creative": false
